@@ -4,7 +4,7 @@ title: Privacy and Cookie Policy
 
 ## Introduction
 
-Tomango respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) as well as where we interact in the course of our business and tell you about your privacy rights and how the law protects you.
+OwlSec Technologies respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) as well as where we interact in the course of our business and tell you about your privacy rights and how the law protects you.
 
 You can [download a PDF version of the policy here](/images/tomango-privacy-policy-and-cookies-policy-may-2018.pdf).
 
@@ -12,7 +12,7 @@ You can [download a PDF version of the policy here](/images/tomango-privacy-poli
 
 ### Purpose of this privacy notice
 
-This privacy notice aims to give you information on how Tomango collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to our newsletter, free marketing advice or social media top tips or downloadable content, utilise our ‘contact us’ form or take part in a competition. This privacy notice also provides information as to how Tomango collects and processes your personal data during the course of our business, including any data you may provide at exhibitions, networking events and by telephone, email or post.
+This privacy notice aims to give you information on how OwlSec Technologies collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to our newsletter, free marketing advice or social media top tips or downloadable content, utilise our ‘contact us’ form or take part in a competition. This privacy notice also provides information as to how OwlSec Technologies collects and processes your personal data during the course of our business, including any data you may provide at exhibitions, networking events and by telephone, email or post.
 
 This website is not intended for children and we do not knowingly collect data relating to children.
 
@@ -20,26 +20,24 @@ It is important that you read this privacy notice together with any other privac
 
 ### Controller
 
-Tomango is the controller and responsible for your personal data (collectively referred to as "Tomango", "we", "us" or "our" in this privacy notice).
+OwlSec Technologies is the controller and responsible for your personal data (collectively referred to as "OwlSec Technologies", "we", "us" or "our" in this privacy notice).
 We have appointed a data privacy manager who is responsible for overseeing questions in relations to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise _your legal rights_, please contact the data privacy manager using the details set out below.
 
 ### Contact details
 
 Our full details are:
 
-Full name of legal entity: Tomango Limited  
-Name of Data Privacy Manager: Mark Vaesen, Managing Director  
-Email address: mark@tomango.co.uk  
-Postal address: 3 Meadow Business Centre, Old Uckfield Road, Ringmer, East Sussex, BN8 5RW  
-Telephone number: 01273 814019
-
-You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](www.ico.org.uk)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+Full name of legal entity: OwlSec Technologies Limited  
+Name of Data Privacy Manager: Stephen Ajulu, Managing Director  
+Email address: ajulu@owlsectechnologies.co.ke  
+Postal address: P. O. Box 0740128010, Nairobi, Kenya  
+Telephone number: +254 740 128 010
 
 ### Changes to the privacy notice and your duty to inform us of changes
 
-This version was last updated on 23 May 2018 and historic versions can be obtained by contacting us.
+This version was last updated on 20th March 2020 and historic versions can be obtained by contacting us.
 
-The data protection law in the UK will change on 25 May 2018. Although this privacy notice sets out most of your rights under the new laws, we may not yet be able to respond to some of your requests (for example, a request for the transfer of your personal data) until May 2018 as we are still working towards getting our systems ready for some of these changes.
+The data protection law in the Kenya will change on 25 May 2018. Although this privacy notice sets out most of your rights under the new laws, we may not yet be able to respond to some of your requests (for example, a request for the transfer of your personal data) until May 2018 as we are still working towards getting our systems ready for some of these changes.
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
