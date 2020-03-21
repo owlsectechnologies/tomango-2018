@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-gb"
 languageLang = "en"
-title = "Tomango"
+title = "OwlSec Technologies"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
