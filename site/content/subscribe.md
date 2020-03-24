@@ -7,7 +7,7 @@ bannerPosition: 8%
 seo_description: Sign up to receive our weekly email—containing ideas, techniques and tips to help you grow your business by maximising your brand and online presence.
 ---
 
-Hi. I’m Mark Vaesen, the founder of Tomango.
+Hi. I’m Stephen Ajulu, the founder of OwlSec Technologies.
 
 Sign up to receive our weekly email—containing ideas, techniques and tips to help you grow your business by maximising your brand and online presence.
 
