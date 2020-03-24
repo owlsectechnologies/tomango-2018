@@ -26,7 +26,7 @@ We've been designing and developing websites in Kenya for over 5 years. Our huge
 	citation="Adam Humphrey, Director, HOP"
 >}}
 
-## How we design your website
+## How we develop and design your website
 Before we even think about writing the first line of code, we need to understand what you're trying to achieve.
 
 What’s your website for? What do you want it to do for your business? What do people want to do when they use it?
