@@ -5,12 +5,12 @@ description: "We're looking for a talented experienced web developer to become a
 ---
 
 **Role type:** Permanent  
-**Salary:** £27,000 - £37,000  
-**Hours:** Full time
+**Salary:** ksh. 10,000 - ksh. 37,000  
+**Hours:** Part Time
 
 ## About Tomango
 
-Tomango creates beautiful brands and industry-leading websites for ambitious businesses across the UK. Based in a converted farm building in a rural location about five minutes from Lewes and 20 minutes from Brighton, we’re a perfectly blended team of dedicated and passionate designers, developers and marketers who get a huge kick from seeing our clients succeed.
+OwlSec Technologies creates beautiful brands and industry-leading websites for ambitious businesses across Kenya. Based in a converted servants quaters about five minutes from Mombasa Road, we’re a perfectly blended team of dedicated and passionate designers, developers and marketers who get a huge kick from seeing our clients succeed.
 
 This is an exciting opportunity to join a growing company and help lead our development team.
 
@@ -32,14 +32,16 @@ You’ll be a dedicated and committed developer that strives for excellence and 
 
 ## Attributes and skills
 
-- At least three years experience in web development
+- At least 2 years experience in web development
 - Strong HTML, CSS, JavaScript and PHP knowledge
 - Good understanding of web performance and responsive design
 - Ability to convert designs (Sketch) into semantic and performant websites
 - Working knowledge of bespoke WordPress theme development
 - Keen eye for detail and ability to write solid, robust code
-- Gulp and SCSS skills
+- Gulp, Grunt and SCSS skills
 - Great communication skills
+- Progressive Web Applications Knowledge
+- Static Site Generators, JAMstack and Headless CMS skills
 
 ## It would also be useful for you to have
 
@@ -63,7 +65,7 @@ You’ll be a dedicated and committed developer that strives for excellence and 
 
 - Flexible working hours
 - Working in a beautiful office in the countryside
-- iMac and ergonomic chair
+- Powerful Computer and ergonomic chair
 - In-house training and support
 - Being part of a supportive, motivated team
 - The freedom to develop other areas of interest in design and digital
@@ -72,4 +74,4 @@ You’ll be a dedicated and committed developer that strives for excellence and 
 
 ## How to apply
 
-Email your CV to [jobs@tomango.co.uk](mailto:jobs@tomango.co.uk?subject=Application for Web Developer).
+Email your CV to [jobs@owlsectechnologies.co.ke](mailto:jobs@owlsectechnologies.co.ke?subject=Application for Web Developer).
