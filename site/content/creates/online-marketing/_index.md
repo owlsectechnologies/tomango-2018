@@ -1,7 +1,7 @@
 ---
 title: Digital Marketing
 image: images/creates/marketing.jpg
-seo_title: "SME Digital Marketing in Sussex | SEO, Social Media, PPC & Email | Tomango"
+seo_title: "SME Digital Marketing in Nairobi | SEO, Social Media, PPC & Email | OwlSec Technologies"
 description: By finding the most effective mix for you, we'll make sure you send out the right message, in the right place, at the right time.
 ---
 
@@ -18,7 +18,7 @@ We have the experience of helping businesses across all sectors improve their di
 	citation="Andy Laird, Managing Director, Fludes Carpets"
 >}}
 
-Tomango works closely with you to identify your business goals and focus on the right marketing mix to reach your customers.
+OwlSec Technologies works closely with you to identify your business goals and focus on the right marketing mix to reach your customers.
 
 Each client is different, so it’s definitely not a ‘one-size-fits-all’ process.
 
