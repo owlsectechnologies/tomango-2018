@@ -1,6 +1,6 @@
 ---
 title: Web Development and Design
-description: By designing an effective website, we'll attract your target visitors and turn them into customers.
+description: By developing and designing an effective website, we'll attract your target visitors and turn them into customers.
 seo_title: "Web Development & Design in Nairobi, Kenya | Wordpress Development | OwlSec Technologies"
 image: images/creates/web-2.jpg
 weight: 20
