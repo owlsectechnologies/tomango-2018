@@ -1,7 +1,7 @@
 ---
-title: Web Design
+title: Web Development and Design
 description: By designing an effective website, we'll attract your target visitors and turn them into customers.
-seo_title: "Web Design in Lewes, Sussex | Wordpress Development | Tomango"
+seo_title: "Web Development & Design in Nairobi, Kenya | Wordpress Development | OwlSec Technologies"
 image: images/creates/web-2.jpg
 weight: 20
 related: 
@@ -13,11 +13,11 @@ related:
 
 But it's paying attention to the detail that makes all the difference.
 
-A well-designed website is about far more than just its visual appearance.
+A well developed and designed website is about far more than just its visual appearance.
 
 It must be easy to find, easy to use and work **perfectly** – on every device from desktop to mobile.
 
-We've been designing and developing websites in Sussex for over 15 years. Our huge experience in planning, designing and building website and web applications will give you the edge over your competitors.
+We've been designing and developing websites in Kenya for over 5 years. Our huge experience in planning, designing and building website and web applications will give you the edge over your competitors.
 
 {{< quote
 	link="/created/hop/"
