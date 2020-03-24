@@ -1,11 +1,11 @@
 ---
 title: Careers
-seo_title: Working in a converted barn in a rural location 5 minutes from Lewes and 20 minutes from Brighton, find out what's so great about working for Tomango.
+seo_title: Working in a converted servant's quaters, 5 minutes from Katani Road or remotely, find out what's so great about working for OwlSec Technologies.
 ---
 
 **We're always interested in hearing from brilliant people looking to carve out their career with us.**
 
-Tomango works with a wide range of business across the UK, creating beautiful, hard-working brands, developing and managing websites and implementing killer online marketing campaigns.
+OwlSec Technologies works with a wide range of business across Kenya, creating beautiful, hard-working brands, developing and managing websites and implementing killer online marketing campaigns.
 
 Based in a converted farm building in a rural location about 5 minutes from Lewes and 20 minutes from Brighton, we’re a perfectly blended team of dedicated and passionate designers, developers and marketers who get a kick from seeing our clients succeed.
 
@@ -31,4 +31,4 @@ We're looking for a talented experienced web developer to become a key part of o
 
 ---
 
-We're always on the look out for talented people. [Email your CV](mailto:jobs@tomango.co.uk).
+We're always on the look out for talented people. [Email your CV](mailto:jobs@owlsectechnologies.co.ke).
