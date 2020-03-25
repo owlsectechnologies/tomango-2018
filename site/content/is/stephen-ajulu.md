@@ -36,4 +36,4 @@ Cats, without question.
 When I was really little, i wanted to be a Doctor but eventually falled in love with I.T
 
 ## What would be your dream holiday?
-A month exploring the world in a campervan.
+A month exploring the oceans in diving suits or the world in a campervan.
