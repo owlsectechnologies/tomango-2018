@@ -26,6 +26,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "News", value: "latest-news" }
           - { label: "Web", value: "web-design" }
           - { label: "Brand", value: "brand" }
+          - { label: "Cybersecurity", value: "cybersecurity" }
           - { label: "Marketing", value: "online-marketing" }
           - { label: "Tips", value: "tips-and-advice" }
       - label: "Author"
@@ -33,8 +34,5 @@ collections: # A list of collections the CMS should be able to edit
         widget: "select"
         options:
           - { label: "Mark", value: "mark" }
-          - { label: "Mike", value: "mike" }
-          - { label: "Trys", value: "trys" }
-          - { label: "Tom", value: "tom" }
-          - { label: "Liam", value: "liam" }
+          - { label: "Ajulu", value: "ajulu" }
           - { label: "Guest", value: "guest" }
