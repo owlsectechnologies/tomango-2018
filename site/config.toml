@@ -1,5 +1,5 @@
-baseurl = "owlsec-technologies.netlify.com"
-languageCode = "en-us"
+baseurl = "/"
+languageCode = "en-gb"
 languageLang = "en"
 title = "OwlSec Technologies"
 pygmentsUseClasses = true
